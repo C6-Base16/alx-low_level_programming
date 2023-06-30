@@ -1,5 +1,4 @@
 #include "main.h"
-#include "_putchar.c"
 /**
   *strcat - function that concatenates
   *@dest: destination of string

@@ -7,6 +7,7 @@
 
 int main(void)
 {
+	int z;
 	int i;
 
 	z = 0;

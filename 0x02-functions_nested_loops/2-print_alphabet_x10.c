@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print_alphabet - Print ascii 97-122
+ *print_alphabet_x10 - print alphabet 10 times
   *Return void
   */
 
@@ -8,8 +8,8 @@ void print_alphabet_x10(void)
 {
 	int i;
 	char ch;
-	i = 0;
 
+	i = 0;
 	while (i < 10)
 	{
 		for (ch = 'a'; ch <= 'z'; ch++)
